@@ -1,2 +1,2 @@
-# carryhome_reactNative_app
-carryhome mobile app made using react-native
+# carryhome_kotlin_app
+carryhome mobile app made using kotlin
